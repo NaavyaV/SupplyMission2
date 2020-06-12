@@ -29,7 +29,7 @@ function setup() {
 	groundSprite=createSprite(width/2, height-35, width,10);
 	groundSprite.shapeColor=color(255)
 
-	baseSprite=createSprite(width/2, height -50, 300,20);
+	baseSprite=createSprite(width/2, height -50, 500,20);
 	baseSprite.shapeColor=color(255, 0, 0)
 
 
